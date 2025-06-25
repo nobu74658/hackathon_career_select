@@ -30,8 +30,8 @@ layout: two-cols
 
 <div class="pr-8">
 
-<div class="mb-6 text-center">
-  <img src="/images/portrait.jpeg" alt="Portrait" class="w-32 h-32 rounded-full mx-auto object-cover" />
+<div class="mb-6 text-left">
+  <img src="/images/portrait.jpeg" alt="Portrait" class="w-32 h-32 rounded-full object-cover" />
 </div>
 
 ## 信田 浩希 👋
@@ -43,7 +43,7 @@ layout: two-cols
   </div>
   <div class="flex items-center space-x-3">
     <div class="text-2xl">📱</div>
-    <div>Flutter学習中（3年）</div>
+    <div>Flutter, Python, TypeScript</div>
   </div>
   <div class="flex items-center space-x-3">
     <div class="text-2xl">🌱</div>
@@ -66,16 +66,16 @@ layout: two-cols
   </div>
   <div class="bg-blue-100 dark:bg-blue-900 p-3 rounded-lg">
     <div class="font-bold text-blue-800 dark:text-blue-200">🤝 仲間と作る楽しさ</div>
-    <div class="text-sm text-blue-700 dark:text-blue-300">短期間でプロダクトを作る経験</div>
+    <div class="text-sm text-blue-700 dark:text-blue-300">チーム開発の喜びと協働の経験</div>
   </div>
   <div class="bg-gray-100 dark:bg-gray-800 p-3 rounded-lg">
     <div class="font-bold text-gray-800 dark:text-gray-200">🤝 多くの出会い</div>
-    <div class="text-sm text-gray-700 dark:text-gray-300">メンターや仲間との出会い</div>
+    <div class="text-sm text-gray-700 dark:text-gray-300">メンターや仲間との貴重な出会い</div>
   </div>
   <div class="bg-green-100 dark:bg-green-900 p-3 rounded-lg">
-    <div class="font-bold text-green-800 dark:text-green-200">就活やポートフォリオにも有利</div>
+    <div class="font-bold text-green-800 dark:text-green-200">💼 就活やポートフォリオにも有利</div>
     <div class="text-sm text-green-700 dark:text-green-300">面接や書類でのアピール材料になる</div>
-    </div>
+  </div>
 </div>
 
 </div>
@@ -128,10 +128,11 @@ layout: two-cols
 
 ::right::
 
-<div class="pl-6">
+<div class="pl-6 pt-14">
+
 
 ## 🎪 主催者として
-
+<div class="pt-4"></div>
 <div class="bg-gradient-to-br from-orange-100 to-red-100 dark:from-orange-900 dark:to-red-900 p-6 rounded-xl">
   <div class="text-center mb-4">
     <div class="text-4xl mb-2">🎉</div>
@@ -187,13 +188,14 @@ background: https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=r
 
 <div class="bg-gray-100 dark:bg-gray-800 p-4 rounded-lg">
   <div class="text-center mb-3">
-    <div class="text-3xl mb-2">🥈</div>
-    <div class="font-bold text-gray-700 dark:text-gray-300">結果</div>
+    <div class="text-3xl mb-2">📝</div>
+    <div class="font-bold text-gray-700 dark:text-gray-300">概要</div>
   </div>
-  <div class="text-center">
-    <div class="text-2xl font-bold text-gray-600 dark:text-gray-400">準優勝</div>
-    <div class="text-sm mt-1">2人チーム</div>
-  </div>
+   <ul class="text-sm space-y-1">
+    <li>初対面の人と2人チーム</li>
+    <li>開発側を担当</li>
+    <li>とにかく動く状態にする</li>
+  </ul>
 </div>
 
 <div class="bg-green-100 dark:bg-green-900 p-4 rounded-lg">
@@ -202,9 +204,8 @@ background: https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=r
     <div class="font-bold text-green-700 dark:text-green-300">学びと出会い</div>
   </div>
   <ul class="text-sm space-y-1">
-    <li>チーム開発の素晴らしさ</li>
     <li>短期集中の大切さ</li>
-    <li><strong>素晴らしいメンターとの出会い</strong></li>
+    <li><strong>メンターとの出会い</strong></li>
   </ul>
 </div>
 
@@ -212,10 +213,15 @@ background: https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=r
 
 <div class="text-center mt-6 p-4 bg-blue-100 dark:bg-blue-900 rounded-lg">
   <div class="font-bold text-blue-700 dark:text-blue-300">ハッカソン後の展開</div>
-  <div class="text-sm mt-2">メンターと2人3脚で1年間、モバイルオーダーアプリ開発 → おかげで成長!</div>
+  <div class="text-sm mt-2">メンターと2人3脚で1年間、モバイルオーダーアプリ開発 → 成長!</div>
 </div>
 
 </div>
+
+---
+layout: image
+image: '/images/第1回Flutterハッカソン.png'
+---
 
 ---
 background: https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80
@@ -227,11 +233,6 @@ background: https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4
 
 ## 第3回Flutterハッカソン（2023年2月）
 
-<!-- <div class="text-center mb-8">
-  <div class="text-6xl mb-4">🤝</div>
-  <div class="text-4xl font-bold text-yellow-400 mb-2">運良く入賞</div>
-  <div class="text-xl text-yellow-200">チームワークのおかげ</div>
-</div> -->
 
 <div class="grid grid-cols-2 gap-8">
 
@@ -263,21 +264,21 @@ background: https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4
 
 <div class="bg-green-100 dark:bg-green-900 p-6 rounded-lg">
   <div class="text-center mb-4">
-    <div class="text-3xl mb-2">🙏</div>
-    <div class="font-bold text-green-700 dark:text-green-300">成功の要因</div>
+    <div class="text-3xl mb-2">✨</div>
+    <div class="font-bold text-green-700 dark:text-green-300">得たもの</div>
   </div>
   <div class="space-y-3 text-sm">
     <div class="p-2 bg-white dark:bg-gray-800 rounded text-center">
-      <div class="font-bold">素晴らしいチームメンバー</div>
-      <div class="text-xs text-gray-600 dark:text-gray-400">お互いを補い合う関係</div>
+      <div class="font-bold">成長の実感</div>
+      <div class="text-xs text-gray-600 dark:text-gray-400">1年前よりもできることの幅が広がった</div>
     </div>
     <div class="p-2 bg-white dark:bg-gray-800 rounded text-center">
-      <div class="font-bold">経験者のアドバイス</div>
-      <div class="text-xs text-gray-600 dark:text-gray-400">メンターの適切な指導</div>
+      <div class="font-bold">経験者からの学び</div>
+      <div class="text-xs text-gray-600 dark:text-gray-400">自分よりも実力のある人から良いところを学ぶ</div>
     </div>
     <div class="p-2 bg-white dark:bg-gray-800 rounded text-center">
-      <div class="font-bold">運とタイミング</div>
-      <div class="text-xs text-gray-600 dark:text-gray-400">素晴らしい環境での挑戦</div>
+      <div class="font-bold">現在地の確認</div>
+      <div class="text-xs text-gray-600 dark:text-gray-400">自分の実力を確認して次の目標を決められる</div>
     </div>
   </div>
 </div>
@@ -303,9 +304,6 @@ image: '/images/aminuri.png'
     <div>• 多くの参加者（188人/48チーム）</div>
     <div>• 1週間の予選 + 1週間の本選</div>
     <div>• 優勝賞金100万円</div>
-    <!-- <div>• <strong>プレッシャーの中での挑戦</strong></div> -->
-    <!-- <div>• <strong>レベルの高い端末面</strong></div> -->
-    <!-- <div>• 決勝に進めたのは奇跡</div> -->
   </div>
 </div>
 
@@ -338,10 +336,10 @@ image: '/images/aminuri.png'
   <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg h-full">
     <div class="text-3xl mb-3">🛠️</div>
     <div class="font-bold text-blue-700 dark:text-blue-300 mb-2">技術力アップ</div>
-    <div class="text-xs space-y-1">
-      <div>• 実際に作って学ぶ</div>
+    <div class="text-xs space-y-1 text-left">
+      <div>• 作りながら学ぶ</div>
+      <div>• できることが広がる</div>
       <div>• 短期間で濃密な経験</div>
-      <div>• 新しいことに挑戦</div>
     </div>
   </div>
 </div>
@@ -350,7 +348,7 @@ image: '/images/aminuri.png'
   <div class="bg-green-100 dark:bg-green-900 p-4 rounded-lg h-full">
     <div class="text-3xl mb-3">👥</div>
     <div class="font-bold text-green-700 dark:text-green-300 mb-2">仲間づくり</div>
-    <div class="text-xs space-y-1">
+    <div class="text-xs space-y-1 text-left">
       <div>• 異なるスキルを持つ人</div>
       <div>• 一緒に作る楽しさ</div>
       <div>• 困難を乗り越えた戦友</div>
@@ -362,7 +360,7 @@ image: '/images/aminuri.png'
   <div class="bg-purple-100 dark:bg-purple-900 p-4 rounded-lg h-full">
     <div class="text-3xl mb-3">🎤</div>
     <div class="font-bold text-purple-700 dark:text-purple-300 mb-2">伝える力</div>
-    <div class="text-xs space-y-1">
+    <div class="text-xs space-y-1 text-left">
       <div>• 自分のアイデアを形に</div>
       <div>• 人に伝わる表現力</div>
       <div>• 短時間でアピール</div>
@@ -374,7 +372,7 @@ image: '/images/aminuri.png'
   <div class="bg-orange-100 dark:bg-orange-900 p-4 rounded-lg h-full">
     <div class="text-3xl mb-3">🤝</div>
     <div class="font-bold text-orange-700 dark:text-orange-300 mb-2">素敵な出会い</div>
-    <div class="text-xs space-y-1">
+    <div class="text-xs space-y-1 text-left">
       <div>• 同じ想いを持つ人</div>
       <div>• 尊敬できるメンター</div>
       <div>• 一生の友人</div>
@@ -386,7 +384,7 @@ image: '/images/aminuri.png'
   <div class="bg-red-100 dark:bg-red-900 p-4 rounded-lg h-full">
     <div class="text-3xl mb-3">🚀</div>
     <div class="font-bold text-red-700 dark:text-red-300 mb-2">自信と成長</div>
-    <div class="text-xs space-y-1">
+    <div class="text-xs space-y-1 text-left">
       <div>• 「できた！」という実感</div>
       <div>• スキルの実証</div>
       <div>• 新しい可能性の発見</div>
@@ -397,7 +395,7 @@ image: '/images/aminuri.png'
 </div>
 
 <div class="text-center mt-8 p-4 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-lg">
-  <div class="font-bold text-lg">あなたもきっと得られるはず！ 🎆</div>
+  <div class="font-bold text-lg text-gray-800 dark:text-gray-200">あなたもきっと得られるはず！ 🎆</div>
 </div>
 
 ---
@@ -410,7 +408,7 @@ background: https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=r
 
 <div class="text-3xl mb-6">ハッカソンは最高の成長機会</div>
 
-<div class="text-6xl mb-8">🌱</div>
+<div class="text-5xl mb-8">🌱</div>
 
 <div class="text-4xl font-bold text-yellow-400 mb-8">初心者大歓迎！</div>
 
