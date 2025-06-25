@@ -57,27 +57,41 @@ layout: two-cols
 
 <div class="pl-8">
 
-### 🌱 ハッカソンでの経験
-
-<div class="space-y-3 mt-6">
-  <div class="bg-blue-100 dark:bg-blue-900 p-3 rounded-lg">
-    <div class="font-bold text-blue-800 dark:text-blue-200">📚 爆速で成長できる</div>
-    <div class="text-sm text-blue-700 dark:text-blue-300">短期間でプロダクトを作る経験</div>
-  </div>
-  <div class="bg-blue-100 dark:bg-blue-900 p-3 rounded-lg">
-    <div class="font-bold text-blue-800 dark:text-blue-200">🤝 仲間と作る楽しさ</div>
-    <div class="text-sm text-blue-700 dark:text-blue-300">チーム開発の喜びと協働の経験</div>
-  </div>
-  <div class="bg-gray-100 dark:bg-gray-800 p-3 rounded-lg">
-    <div class="font-bold text-gray-800 dark:text-gray-200">🤝 多くの出会い</div>
-    <div class="text-sm text-gray-700 dark:text-gray-300">メンターや仲間との貴重な出会い</div>
-  </div>
-  <div class="bg-green-100 dark:bg-green-900 p-3 rounded-lg">
-    <div class="font-bold text-green-800 dark:text-green-200">💼 就活やポートフォリオにも有利</div>
-    <div class="text-sm text-green-700 dark:text-green-300">面接や書類でのアピール材料になる</div>
+<div class="space-y-4 mt-6">
+  <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg">
+    <div class="font-bold text-blue-700 dark:text-blue-300 mb-2">経歴</div>
+    <ul class="text-sm space-y-6">
+      <li>
+        <div class="mb-1"><strong>大学入学当初：プログラミング未経験</strong></div>
+        <ul class="ml-4">
+          <li>タイピングから練習</li>
+          <li>Webサイト制作, データ分析, アプリ開発</li>
+        </ul>
+      </li>
+      <li>
+        <div class="mb-1"><strong>学部2年：アプリ開発を始める</strong></div>
+        <ul class="ml-4">
+          <li>ハッカソン初参加</li>
+          <li>メンターと1年間開発</li>
+        </ul>
+      </li>
+      <li>
+        <div class="mb-1"><strong>学部3〜4年：実務経験</strong></div>
+        <ul class="ml-4">
+          <li>受託開発会社でインターン</li>
+          <li>ECサービスの開発と社団法人の立ち上げ</li>
+        </ul>
+      </li>
+      <li>
+        <div class="mb-1"><strong>修士1年：就活</strong></div>
+        <ul class="ml-4">
+          <li>大規模ハッカソン</li>
+          <li>企業型ハッカソン</li>
+        </ul>
+      </li>
+    </ul>
   </div>
 </div>
-
 </div>
 
 ---
@@ -95,7 +109,7 @@ layout: two-cols
     <div class="text-xl">🥈</div>
     <div>
       <div class="font-semibold">第2回Flutterハッカソン</div>
-      <div class="text-sm text-blue-600 dark:text-blue-300">学部2年の5月 準優勝</div>
+      <div class="text-sm text-blue-600 dark:text-blue-300">学部2年 5月 準優勝</div>
     </div>
   </div>
   
@@ -103,7 +117,7 @@ layout: two-cols
     <div class="text-xl">🥇</div>
     <div>
       <div class="font-semibold">第3回Flutterハッカソン</div>
-      <div class="text-sm text-yellow-600 dark:text-yellow-300">学部2年2月 優勝</div>
+      <div class="text-sm text-yellow-600 dark:text-yellow-300">学部2年 2月 優勝</div>
     </div>
   </div>
   
@@ -111,7 +125,7 @@ layout: two-cols
     <div class="text-xl">🏅</div>
     <div>
       <div class="font-semibold">Engineer Guild Hackathon</div>
-      <div class="text-sm text-green-600 dark:text-green-300">修士1年2月 準優勝+企業賞</div>
+      <div class="text-sm text-green-600 dark:text-green-300">修士1年 2月 準優勝+企業賞</div>
     </div>
   </div>
   
@@ -456,7 +470,7 @@ background: https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=r
 
 <div class="text-2xl mb-8 font-bold">参考リンク</div>
 
-<div class="grid grid-cols-3 gap-6 mb-8">
+<div class="grid grid-cols-2 gap-6 mb-8">
 
 <div class="bg-blue-100 dark:bg-blue-900 p-4 rounded-lg">
   <div class="text-3xl mb-3">📱</div>
@@ -478,7 +492,7 @@ background: https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=r
   </div>
 </div>
 
-<div class="bg-orange-100 dark:bg-orange-900 p-4 rounded-lg">
+<!-- <div class="bg-orange-100 dark:bg-orange-900 p-4 rounded-lg">
   <div class="text-3xl mb-3">🎉</div>
   <div class="font-bold text-orange-700 dark:text-orange-300 mb-2">主催ハッカソン</div>
   <div class="text-xs">
@@ -486,7 +500,7 @@ background: https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?ixlib=r
       connpass
     </a>
   </div>
-</div>
+</div> -->
 
 </div>
 
